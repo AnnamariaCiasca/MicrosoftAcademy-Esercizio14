@@ -1,0 +1,15 @@
+
+Cerchio
+ Coordinata X: 3
+ Coordinata Y: 2
+ Il raggio misura 4 m
+
+Rettangolo
+ La base misura 6 m
+ L'altezza misura 5 m
+
+Triangolo
+ La base misura 3 m
+ L'altezza misura 4 m
+ Il primo cateto misura 5 m
+ Il secondo cateto misura 1 m
